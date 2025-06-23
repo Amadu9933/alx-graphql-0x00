@@ -1,0 +1,20 @@
+{
+  "data": {
+    "characters": {
+      "results": [
+        {
+          "id": "41",
+          "name": "Character 41",
+          "status": "unknown",
+          "image": "url41"
+        },
+        {
+          "id": "42",
+          "name": "Character 42",
+          "status": "Alive",
+          "image": "url42"
+        }
+      ]
+    }
+  }
+}
